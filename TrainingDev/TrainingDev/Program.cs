@@ -12,4 +12,9 @@ namespace TrainingDev
             Console.WriteLine("Hello World!");
         }
     }
+
+    public class Student {
+        public int MyProperty { get; set; }
+    }
+
 }
